@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Flask / SQLite instance
+instance/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
